@@ -1,4 +1,4 @@
-[21:56, 25/03/2023] muskan: import tkinter as tk
+import tkinter as tk
 
 class Whiteboard:
     def init(self, master):
